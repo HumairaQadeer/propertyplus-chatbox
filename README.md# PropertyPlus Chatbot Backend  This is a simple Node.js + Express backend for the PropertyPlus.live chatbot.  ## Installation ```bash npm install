@@ -1,0 +1,7 @@
+# PropertyPlus Chatbot Backend
+
+This is a simple Node.js + Express backend for the PropertyPlus.live chatbot.
+
+## Installation
+```bash
+npm install
